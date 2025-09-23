@@ -44,18 +44,18 @@
 ## ✨ Fun Stuff
 
 - 🧩 **Favourite Activity:** Building cool stuff for fun  
-- 📫 **How to reach me:** No ways, sorry!  
-- ⚡ **Fun fact:** **_Sabhi Repo Private Hain Yaha Kuch Nahi Hai Chori Karne Ko_**🐍  
+- 📫 **How to reach me:** No way!!! Sorry!  
+- ⚡ **Fun fact:** _Sabhi Repo Private Hain Yaha Kuch Nahi Hai Chori Karne Ko_ 
 
 ---
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<h2 align="center">🔭 My Contributions </h2>
 
 <div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/git🚀hub-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
