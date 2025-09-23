@@ -35,7 +35,7 @@
   <a href="https://github.com/adeswal78/pvt"><img src="https://img.shields.io/badge/pvt-Repo-blue?style=flat&logo=github" /></a>
   <a href="https://github.com/adeswal78/adeswal2-proxy"><img src="https://img.shields.io/badge/adeswal2--proxy-Repo-lightgrey?style=flat&logo=github" /></a>
   <a href="https://github.com/adeswal78/txt-extract"><img src="https://img.shields.io/badge/txt--extract-Repo-yellow?style=flat&logo=github" /></a>
-  <a href="https://github.com/adeswal78/vplayer"><img src="https://img.shields.io/badge/vplayer-Repo-orange?style=flat&logo=github" /></a>
+  <a href="https://adplay.onrender.com"><img src="https://img.shields.io/badge/vplayer-orange?style=flat&logo=github" /></a>
   <a href="https://github.com/adeswal78/engbyps"><img src="https://img.shields.io/badge/engbyps-Repo-green?style=flat&logo=github" /></a>
 </p>
 
