@@ -45,7 +45,7 @@
 
 - 🧩 **Favourite Activity:** Building cool stuff for fun  
 - 📫 **How to reach me:** No ways, sorry!  
-- ⚡ **Fun fact:** **Sabhi Repo Private Hain Yaha Kuch Nahi Hai Chori Karne Ko**🐍  
+- ⚡ **Fun fact:** **_Sabhi Repo Private Hain Yaha Kuch Nahi Hai Chori Karne Ko_**🐍  
 
 ---
 
