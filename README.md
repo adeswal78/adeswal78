@@ -42,7 +42,7 @@
 ## ✨ Fun Stuff
 
 - 🧩 **Favourite Activity:** Building cool stuff for fun  
-- 📫 **How to reach me:** No way!!! Sorry!  
+- 📫 **Contact:** No way!!! Sorry!  
 - ⚡ **Fun fact:** _Sabhi Repo Private Hain Yaha Kuch Nahi Hai Chori Karne Ko_ 
 
 ---
