@@ -24,9 +24,8 @@
 
 - 👨‍🎓 **Name:** ADeswal  
 - 🧑‍💻 **Profession:** Student (Not a professional developer)  
-- 🛠 **Interests:** Coding, making different online tools, exploring new tech  
-- 💡 **Why Coding?**  
-  Mujhe naye naye online tools banana aur unhe internet par share karna bahut pasand hai. Main professionally developer nahi hoon, lekin cheezein banana aur naye features try karna mujhe kaafi acha lagta hai.
+- 🛠 **Interests:** Making different online tools, exploring new tech  
+
 
 ---
 
@@ -44,7 +43,6 @@
 
 ## ✨ Fun Stuff
 
-- 🌱 **Currently Learning:** PCM, Class 12th  
 - 🧩 **Favourite Activity:** Building cool stuff for fun  
 - 📫 **How to reach me:** No ways, sorry!  
 - ⚡ **Fun fact:** Yaar yaha to kuch naa milne wala sad 🐍  
