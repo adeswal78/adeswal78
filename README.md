@@ -1,6 +1,4 @@
-<div style="display: inline-block;">
-  <img align="left" src="https://img.shields.io/badge/Favorite%20Language-Java-007396" />
-</div>
+
 <div style="display: inline-block;">
   <img align="left" src="https://img.shields.io/badge/Status-Always%20Online-008000" />
 </div>
@@ -55,7 +53,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/git🚀hub-contribution-grid-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
