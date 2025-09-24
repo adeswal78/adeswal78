@@ -13,7 +13,7 @@
 </h1>
 
 <p align="center">
-  <b>Student | Hobbyist Coder | Online Tools Creator</b>
+  <b>Hobbyist Coder | Online Tools Creator</b>
 </p>
 
 ---
