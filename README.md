@@ -1,6 +1,6 @@
 
 <div style="display: inline-block;">
-  <img align="left" src="https://img.shields.io/badge/status%20always-online008000" />
+  <img align="left" src="https://img.shields.io/badge/%20offline008000" />
 </div>
 <div style="display: inline-block;">
   <img align="left" src="https://img.shields.io/badge/Learning%20Something%20New-Always-3d5afe" />
